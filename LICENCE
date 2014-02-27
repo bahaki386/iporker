@@ -1,20 +1,6 @@
-Copyright 2014 baahki386
+このプログラムはbahaki386が著作権を保持し、非営利での複製、再頒布、変更、変更版の再頒布を認めます。
+このプログラムによって生じたいかなる損害に対しても、bahaki386およびその他の開発者はいかなる責任も負いません。
 
-This file is part of iporker.
-
-iporker is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-iporker is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with iporker.  If not, see <http://www.gnu.org/licenses/>.
-    
 このプログラムはzlib,libpngを使用しています
 Copyright (c) 2004, 2006-2012 Glenn Randers-Pehrson.
 Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
