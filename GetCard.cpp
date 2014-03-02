@@ -1,5 +1,5 @@
 /*
-Copyright 2014 bahki386
+Copyright 2014 Team iporker
 This file is part of iporker.
 */
 
