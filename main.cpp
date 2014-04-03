@@ -21,7 +21,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	SetGraphMode(800, 600, 32);
 	SetMainWindowText("インディアンポーカー");
 	if (DxLib_Init() == -1) {
-		return -1;
+		exit(-1);
 	}
 	SRand(GetRand(255));
 	for (i = 0; i < 29; i++) {
@@ -118,5 +118,5 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	}
 	WaitKey();
 	DxLib_End();		// DXライブラリ終了処理
-	return 0;
+	exit(0);
 }
